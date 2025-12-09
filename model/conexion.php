@@ -12,7 +12,7 @@ try{
    echo "Error de conexión " . $e->getMessage();
 }
 
-$URL = "http://localhost/Sistema%20impresion%20DTF%20ColorLink/";
+$URL = "http://localhost/Sistema-impresion-DTF-ColorLink/";
 
 date_default_timezone_set("America/Caracas");
 $fechaHora = date("Y-m-d h:i:s");
