@@ -1,0 +1,75 @@
+[2025-11-03 09:29:12] Fallo al enviar correo pedido_finalizado para pedido 2 al correo Nubiia@gmail.com
+Detalle: Array
+(
+    [Id_pedido] => 2
+    [Cantidades] => 4
+    [Costo] => 1632.00
+    [Fecha_Entrega] => 2025-11-13
+    [Centimetros] => 100.00
+    [Estado_Pedido] => Finalizado
+    [Nombre] => Nubia
+    [Apellido] => Blanco
+    [Correo] => Nubiia@gmail.com
+    [Imagenes] => Array
+        (
+            [0] => Array
+                (
+                    [url] => clientes/imagenes/Nubia_30195158_2_0.PNG
+                    [cantidad] => 1
+                    [nombre] => Nubia_30195158_2_0.PNG
+                )
+
+            [1] => Array
+                (
+                    [url] => clientes/imagenes/Nubia_30195158_2_1.PNG
+                    [cantidad] => 1
+                    [nombre] => Nubia_30195158_2_1.PNG
+                )
+
+            [2] => Array
+                (
+                    [url] => clientes/imagenes/Nubia_30195158_2_2.PNG
+                    [cantidad] => 1
+                    [nombre] => Nubia_30195158_2_2.PNG
+                )
+
+            [3] => Array
+                (
+                    [url] => clientes/imagenes/Nubia_30195158_2_3.PNG
+                    [cantidad] => 1
+                    [nombre] => Nubia_30195158_2_3.PNG
+                )
+
+        )
+
+    [NombreCliente] => Nubia Blanco
+)
+
+
+[2025-12-06 13:21:52] Fallo al enviar correo pedido_finalizado para pedido 33 al correo jesusblancodiaz19@gmail.com
+Detalle: Array
+(
+    [Id_pedido] => 33
+    [Cantidades] => 1
+    [Costo] => 2250.00
+    [Fecha_Entrega] => 2025-12-08
+    [Centimetros] => 150.00
+    [Estado_Pedido] => Finalizado
+    [Nombre] => jesu2
+    [Apellido] => blanco
+    [Correo] => jesusblancodiaz19@gmail.com
+    [Imagenes] => Array
+        (
+            [0] => Array
+                (
+                    [url] => clientes/imagenes/jesu2_J-1532012345_33_0.png
+                    [cantidad] => 3
+                    [nombre] => jesu2_J-1532012345_33_0.png
+                )
+
+        )
+
+    [NombreCliente] => jesu2 blanco
+)
+
+
